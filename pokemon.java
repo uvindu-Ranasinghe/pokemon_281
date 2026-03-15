@@ -6,3 +6,8 @@ public class pokemon {
 
     }
 }
+
+
+// git remote add origin https://github.com/uvindu-Ranasinghe/pokemon_281.git
+// git branch -M main
+// git push -u origin main
